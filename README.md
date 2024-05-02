@@ -30,5 +30,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste re
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [GNU General Public License v3.0](LICENSE).
 
